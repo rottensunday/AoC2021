@@ -26,6 +26,7 @@ dependencies:
 - text
 - mtl
 - megaparsec
+- containers
 
 library:
   source-dirs: src
