@@ -26,6 +26,7 @@ data-files:
     resources/Day5Input.txt
     resources/Day6Input.txt
     resources/Day7Input.txt
+    resources/Day8Input.txt
 
 source-repository head
   type: git
@@ -40,6 +41,7 @@ library
       Day5
       Day6
       Day7
+      Day8
       FileAccess
       Lib
   other-modules:
