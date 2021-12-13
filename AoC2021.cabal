@@ -22,6 +22,7 @@ data-files:
     resources/Day10Input.txt
     resources/Day11Input.txt
     resources/Day12Input.txt
+    resources/Day13Input.txt
     resources/Day1Input.txt
     resources/Day2Input.txt
     resources/Day3Input.txt
@@ -42,6 +43,7 @@ library
       Day10
       Day11
       Day12
+      Day13
       Day2
       Day3
       Day4
